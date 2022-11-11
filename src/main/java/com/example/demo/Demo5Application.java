@@ -11,7 +11,7 @@ public class Demo5Application {
         System.out.println("test-hot-fix2");
         System.out.println("master-test");
         System.out.println("push-test");
-
+        System.out.println("pull-test");
         SpringApplication.run(Demo5Application.class, args);
     }
 
